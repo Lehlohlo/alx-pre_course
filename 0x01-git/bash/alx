@@ -1,2 +1,1 @@
-
-sed s'/echo "School"/echo "The School is open!"/' school
+ALX School
